@@ -8,6 +8,9 @@ int main() {
     //상수 규칙 : 대문자로
     const double PI = 3.14159;
     //PI = 420.69; //상수는 재정의 불가
+    const int LIGHT_SPEED = 2997924568;
+    const int WIDTH = 1920;
+    const int HEIGHT = 1000;
     double radius = 10;
     double circumference = 2 * PI * radius;
 
