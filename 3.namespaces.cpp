@@ -27,8 +27,8 @@ int main(){
     // int x = 0;
     // std::cout << x; //0
 
-    std::cout << x; //1 prefix the namespace
-    std::cout << second::x; //2 :: -> scope resolution operator
+    std::cout << x <<'\n'; //1 prefix the namespace
+    std::cout << second::x <<'\n'; //2 :: -> scope resolution operator
     
     // using namespace std;
     using std::cout;
@@ -38,7 +38,7 @@ int main(){
     // std::cout << "Hello" << name;
 
     string name ="Joy";
-    cout << "Hello" << name;
+    cout << "Hello" << name <<'\n';
 
     
 
