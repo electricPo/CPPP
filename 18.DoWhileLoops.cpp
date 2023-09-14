@@ -5,8 +5,6 @@ int main(){
 
     int number;
 
-    //{}안의 코드를 출력하고 while의 조건문으로 돌아가는 구조
-
         //while문을 사용하는 경우
 
             std::cout << "Enter a positive #: " << '\n';

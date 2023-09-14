@@ -18,7 +18,7 @@ int main(){
     // }
 
     //infiniteLoop 
-    while(1==1){
+    while(1==1){ //언제나 true인 조건
         std::cout << "Help! I'm stuck in an infinite loop!";
     }
 
