@@ -1,5 +1,8 @@
 #include <iostream>
 
+
+
+//////////////////////struct declaration////////////////////////////
 struct student
 {   
     //student is kind of like its own data type we can use
@@ -13,6 +16,9 @@ struct student
 
 };
 
+
+
+/////////////////////////////output//////////////////////////////////
 
 int main(){
     //struct = A structure that gruop related variables under one name
